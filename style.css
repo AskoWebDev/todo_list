@@ -1,0 +1,26 @@
+body{
+  margin-right: 15rem;
+  margin-left: 15rem;
+}
+
+.container{
+  text-align: center;
+
+}
+
+.form{
+  background-color: lightblue;
+  padding: 1rem;
+  
+
+}
+
+header{
+  text-align: center;
+}
+
+input{
+  margin-right: 19rem;
+  margin-left: 1rem;
+}
+
